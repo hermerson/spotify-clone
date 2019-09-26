@@ -34,6 +34,8 @@ target 'spotify' do
 
   pod 'react-native-track-player', :path => '../node_modules/react-native-track-player'
 
+  pod 'BVLinearGradient', :path => '../node_modules/react-native-linear-gradient'
+
   target 'spotifyTests' do
     inherit! :search_paths
     # Pods for testing

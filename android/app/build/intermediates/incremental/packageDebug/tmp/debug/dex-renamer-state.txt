@@ -1,4 +1,4 @@
-#Tue Aug 27 15:02:53 GMT-03:00 2019
-base.0=G\:\\RN\\MusicTop\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Wed Sep 04 13:52:04 GMT-03:00 2019
+base.0=G\:\\GitHub\\spotify-clone\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -2,7 +2,7 @@ import { all, takeLatest } from 'redux-saga/effects';
 import {PodcastsTypes} from '~/store/ducks/podcasts';
 import {load} from './podcasts';
 import {init, setPodcast, play, pause, next, prev, reset} from './player';
-import {PlayerTypes} from '~/store/ducks/player';
+import { PlayerTypes } from '~/store/ducks/player';
 
 
 export default function* rootSaga() {

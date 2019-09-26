@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\RN\\MusicTop\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "outputFile": "G:\\GitHub\\spotify-clone\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-2\\files-2.1\\c3118385785c52111bdc1fa539af1b41\\res\\values-pa\\values-pa.xml",

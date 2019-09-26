@@ -15,6 +15,8 @@ import com.spotify.R;
 
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
+// react-native-linear-gradient
+import com.BV.LinearGradient.LinearGradientPackage;
 // react-native-track-player
 import com.guichaguri.trackplayer.TrackPlayer;
 // react-native-vector-icons
@@ -53,6 +55,7 @@ public class PackageList {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(),
       new RNGestureHandlerPackage(),
+      new LinearGradientPackage(),
       new TrackPlayer(),
       new VectorIconsPackage()
     ));

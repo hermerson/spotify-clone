@@ -20,7 +20,7 @@ export const Podcast = styled.TouchableOpacity.attrs({
     activeOpacity:0.6,
 }) `
     flex-direction: row;
-    align-items> center;
+    align-items:center;
     padding: 0 20px;
     margin-top: 20px;
 `;
